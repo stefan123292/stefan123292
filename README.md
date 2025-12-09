@@ -1,4 +1,4 @@
-# 👨‍💻 Stefan Covanji  
+# 👨‍💻 Stepan Covanji  
 ### 🔥 Full Stack & AI Developer | Architect of Intelligent Systems  
 
 I build **high-performance, scalable applications** that merge cutting-edge web development with **AI-powered automation**. With over 3 years of experience across fintech, SaaS, and startup environments, I specialize in creating systems that don’t just function — they learn, adapt, and drive measurable impact.
